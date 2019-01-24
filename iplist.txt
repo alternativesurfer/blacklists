@@ -1,6 +1,3 @@
-#
-# Emerging Threats fwip rules.
-#
 # Raw IPs for the firewall block lists. These come from:
 #
 # Me, found referenced in various blog posts around the net!
