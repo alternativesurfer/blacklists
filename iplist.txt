@@ -22,7 +22,7 @@
 #
 # Rev 2
 
-#https://krypt3ia.wordpress.com/2019/01/04/ryuk-ransomware-threat-intel-report/
+# https://krypt3ia.wordpress.com/2019/01/04/ryuk-ransomware-threat-intel-report/
 
 104.199.153.1
 104.199.153.2
