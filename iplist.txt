@@ -1,5 +1,5 @@
-# last updated 20190125 (https://krypt3ia.wordpress.com/2019/01/04/ryuk-ransomware-threat-intel-report)
-# Rev. 3
+# last updated 20190624 (https://krypt3ia.wordpress.com/2019/01/04/ryuk-ransomware-threat-intel-report)
+# Rev. 4
 ## Raw IPs for the firewall block lists. These come from:
 #
 # Me, found referenced in various blog posts around the net!
@@ -1314,3 +1314,11 @@
 89.119.67.152
 89.119.67.153
 89.119.67.154
+
+# m$
+134.170.30.202
+137.116.81.24
+204.79.197.200
+23.218.212.69
+65.39.117.230
+65.55.108.23
